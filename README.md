@@ -17,7 +17,7 @@ Links allow us to connect our pages and sites to each other. Arguably they give 
 <a href="http://example.com">This is a text link</a>
 ```
 
-Anchor link `<a>` accepts an `href` (hypertext reference) attribute points to the location of the page or content we are linking to.
+An anchor link `<a>` accepts an `href` (hypertext reference) attribute points to the location of the page or content we are linking to.
 
 ```html
 <a href="http://example.com">
@@ -35,7 +35,7 @@ Anchor links can also wrap images as well as text. In fact anything we wrap a `<
 <a href="tel:555-555-5555">This an phone number link</a>
 ```
 
-using special formatting in our href value `mailto:` allows us to trigger email editor or cellular devices `tel:` to dial numbers.
+Special prefixes in the href can trigger specific actions.`mailto:` allows us to open an email editor; `"tel:"` tells cellular devices to dial a number.
 
 ```html
 <p id="tips">Useful Tips Section</p>
