@@ -6,12 +6,12 @@ In this lesson we will do a quick review of HTML links from the video lecture in
 
 ## What's Covered in This Lesson 
 
-1. Review HTML standard and named anchor links
-2. Review relative and absolute paths
+1. HTML standard and named anchor links
+2. Relative and absolute paths
 
 ## Links
 
-Links allow us to connect our pages and sites to each other. Arguably they give the world wide web its power, by simply allowing one document to lead to the next.
+Links allow us to connect our pages and sites to each other. Arguably they give the world wide web its power by simply allowing one document to lead to the next.
 
 ```html
 <a href="http://example.com">This is a text link</a>
