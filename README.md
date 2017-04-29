@@ -17,7 +17,7 @@ Links allow us to connect our pages and sites to each other. Arguably they give 
 <a href="http://example.com">This is a text link</a>
 ```
 
-An anchor link `<a>` accepts an `href` (hypertext reference) attribute points to the location of the page or content we are linking to.
+An anchor link `<a>` accepts an `href` (hypertext reference) attribute, which points to the location of the page or content we are linking to.
 
 ```html
 <a href="http://example.com">
@@ -69,3 +69,5 @@ It is prefered that you use the relative path when linking to content within you
 - [Mozilla Dev Network - Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Element Lookup Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Element Cheatsheet](http://overapi.com/html-dom/)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-link'>Understanding Links in HTML</a> on Learn.co and start learning to code for free.</p>
