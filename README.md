@@ -28,11 +28,11 @@ An anchor link `<a>` accepts an `href` (hypertext reference) attribute points to
 Anchor links can also wrap images as well as text. In fact anything we wrap a `<a>` around becomes a clickable linked item.
 
 ```html
-<a href="mailto:webmaster@example.com">This an email link</a>
+<a href="mailto:webmaster@example.com">This is an email link</a>
 ```
 
 ```html
-<a href="tel:555-555-5555">This an phone number link</a>
+<a href="tel:555-555-5555">This is a phone number link</a>
 ```
 
 Special prefixes in the href can trigger specific actions.`mailto:` allows us to open an email editor; `"tel:"` tells cellular devices to dial a number.
@@ -69,3 +69,5 @@ It is prefered that you use the relative path when linking to content within you
 - [Mozilla Dev Network - Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Element Lookup Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Element Cheatsheet](http://overapi.com/html-dom/)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-link'>Understanding Links in HTML</a> on Learn.co and start learning to code for free.</p>
