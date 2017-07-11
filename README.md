@@ -68,6 +68,5 @@ It is prefered that you use the relative path when linking to content within you
 
 - [Mozilla Dev Network - Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Element Lookup Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [HTML Element Cheatsheet](http://overapi.com/html-dom/)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/html-link'>Understanding Links in HTML</a> on Learn.co and start learning to code for free.</p>
