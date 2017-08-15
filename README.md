@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lesson we will do a quick review of HTML links from the video lecture in the prior lesson.
+In this lesson we will do a quick review of HTML links.
 
 ## What's Covered in This Lesson 
 
