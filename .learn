@@ -6,3 +6,4 @@ tags:
 type:
   - lecture
 resources: 3
+soft_wall: create_password
