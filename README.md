@@ -1,8 +1,8 @@
 # HTML Links
 
-## Overview
+## Getting Started
 
-In this lesson we will do a quick review of HTML links.
+Links allow us to connect our pages and sites to each other. Arguably they give the world wide web its power by simply allowing one document to lead to the next. In this lesson, we’ll take a look at the structure of a link and how it works.
 
 ## What's Covered in This Lesson 
 
@@ -10,8 +10,6 @@ In this lesson we will do a quick review of HTML links.
 2. Relative and absolute paths
 
 ## Links
-
-Links allow us to connect our pages and sites to each other. Arguably they give the world wide web its power by simply allowing one document to lead to the next.
 
 ```html
 <a href="http://example.com">This is a text link</a>
@@ -44,29 +42,38 @@ Special prefixes in the href can trigger specific actions.`mailto:` allows us to
 
 We can also create named anchor links that will scroll to content elsewhere in the same page. This is done by giving an `id` attribute to one element, and then setting the `href` of a link to `#id` where the ids match.
 
-### Relative and Absolute File Paths
+## Relative and Absolute File Paths
 
-#### Relative
+There are two ways to express where we want to go. We can use either a relative file path or an absolute file path.
+
+__Relative__
 
 `about.html`
 
 Relative paths describe the location of resources within the same file system.
 
-#### Absolute
+__Absolute__
 
 `http://example.com/about.html`
 
 Absolute paths describe the location of resources on the entire internet at large.
 
-It is prefered that you use the relative path when linking to content within your own website. Then use absolute paths when linking to content on other remote websites.
- 
+You should use the relative path when linking to content within your own website. Then use absolute paths when linking to content on other remote websites.
+
 ## Summary
 
-- HTML links can be defined as `<a href="myfile.html">link text here</a>`.
+We can link to other pages either on our own website or on the internet as a whole by using the `a` tag and a `href` attribute, which specifies where we want the link to go. We use either a __relative__ or __absolute__ file path to determine the link destination.
+
+## Key Terms to Review
+
+* Anchor links
+* Relative file path
+* Absolute file path
 
 ## Resources
 
-- [Mozilla Dev Network - Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [HTML Element Lookup Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [Mozilla Developer Network a tag reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/html-link'>Understanding Links in HTML</a> on Learn.co and start learning to code for free.</p>
+## What's Next
+
+Now that we’ve covered the basics of HTML, let’s move on to HTML’s best friend: CSS, which will let us start making our HTML look much more interesting.
